@@ -1,7 +1,10 @@
 # Dynamic SpringRank
 Python implementation of Dynamic SpringRank  model described in:
--  [*A model for efficient dynamical ranking in networks*](https://arxiv.org/abs/2307.13544)  
-    Andrea Della Vecchia, Kibidi Neocosmos, Daniel B. Larremore, Cristopher Moore, and Caterina De Bacco; arxiv:2307.13544, 2023.
+-  [*A model for efficient dynamical ranking in networks*](https://doi.org/10.1103/PhysRevE.110.034310)  
+    Andrea Della Vecchia, Kibidi Neocosmos, Daniel B. Larremore, Cristopher Moore, and Caterina De Bacco.  
+    Physical Review E, 110, 034310 (2024).
+
+- A [preprint](https://arxiv.org/abs/2307.13544) is also available.
 
 Dynamic SpringRank is a physics-inspired method for inferring dynamic rankings in directed temporal networks —
 networks in which each directed and timestamped edge reflects the outcome and timing of a pairwise
